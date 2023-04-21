@@ -9,8 +9,6 @@ on:
       - 'examples/**'
       - 'gptcache/**'
       - 'tests/**'
-      - '!**.md'
-      - '.github/workflows/**'
   pull_request:
     branches:
       - main
